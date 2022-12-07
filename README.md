@@ -22,17 +22,27 @@ While completing the Project I have learned the following things:
 
 
 # Required Installations
-Following installations are required in order to run the project
+Following installations are required in order to run the project:
   •	Python 3.x
+  
   •	Anaconda
-Following Libraries are used in this project
+  
+  
+Following Libraries are used in this project: 
   •	Numpy 
+  
   •	Pandas
+  
   •	Sklearn
+  
   •	Scipy
+  
   •	Matplotlib.pyplot
-  •	Sckit-learn 
+  
+  •	Sckit-learn
+  
   •	Pylab
+  
   •	Seaborn
 
 Code
