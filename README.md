@@ -23,12 +23,14 @@ While completing the Project I have learned the following things:
 
 # Required Installations
 Following installations are required in order to run the project:
+
   •	Python 3.x
   
   •	Anaconda
   
   
 Following Libraries are used in this project: 
+
   •	Numpy 
   
   •	Pandas
