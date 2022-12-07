@@ -12,6 +12,7 @@ In this project I have created a Credit card Fraud Detection system using Machin
 # Problem Highlighted
 The Goal of this project is to accurately predict the fraud transactions in the dataset using Machine Learning models and algorithms. In this project I have used 4 Machine Learning Models namely as IFM, LOF, SVM and Logistic Regression and have displayed there accuracy score and classification report to highlight which model will be best for this case. 
 While completing the Project I have learned the following things:
+
 •	How to properly carry out the general Machine Learning Project Workflow.
 •	The different techniques used in the process of Data Pre-processing.
 •	How to apply Exploratory Data Analysis (EDA) on a given dataset. 
@@ -22,17 +23,17 @@ While completing the Project I have learned the following things:
 
 # Required Installations
 Following installations are required in order to run the project
-•	Python 3.x
-•	Anaconda
+  •	Python 3.x
+  •	Anaconda
 Following Libraries are used in this project
-•	Numpy 
-•	Pandas
-•	Sklearn
-•	Scipy
-•	Matplotlib.pyplot
-•	Sckit-learn 
-•	Pylab
-•	Seaborn
+  •	Numpy 
+  •	Pandas
+  •	Sklearn
+  •	Scipy
+  •	Matplotlib.pyplot
+  •	Sckit-learn 
+  •	Pylab
+  •	Seaborn
 
 Code
 The entire code is provided in the file
