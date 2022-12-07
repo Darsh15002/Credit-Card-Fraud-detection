@@ -47,7 +47,8 @@ Following Libraries are used in this project:
   
   •	Seaborn
 
-Code
+# Code
+
 The entire code is provided in the file
 Apart from this a PDF of this Jupiter Notebook file is also uploaded in this project repository for reference.
 
