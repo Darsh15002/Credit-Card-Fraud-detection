@@ -38,4 +38,5 @@ Code
 The entire code is provided in the file
 Apart from this a PDF of this Jupiter Notebook file is also uploaded in this project repository for reference.
 
-
+# Visualization and Report
+The image of all the visualization made during the analysis as well the classification report is given in the images folder of this repository.
